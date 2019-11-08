@@ -1,1 +1,1 @@
-this is project for techfest website
+This is a project for techfest website
